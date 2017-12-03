@@ -1,5 +1,5 @@
 ## Top 10 Most Visited Websites
-[Google](https://www.google.com/ncr) ,  [Baidu](https://www.baidu.com/) , [GitHub](https://github.com/ctlife) , [Blog](http://yongpeng.org/) , [Web of Knowledge](http://apps.webofknowledge.com) , [Outlook]() , [NetEase Email](http://www.188.com/)
+[Google](https://www.google.com/ncr) ,  [Baidu](https://www.baidu.com/) , [GitHub CTLife](https://github.com/ctlife) , [English Blog](http://yongpeng.org/) , [Chinese Blog](http://blog.sciencenet.cn/u/bigdataage) , [Web of Knowledge](http://apps.webofknowledge.com) , [Outlook]() , [NetEase Email](http://www.188.com/)
 
 ## I. Search Engines 
 [Google](https://www.google.com/ncr),  [Baidu](https://www.baidu.com/),  [Yahoo](https://www.yahoo.com/),  [Bing](https://www.bing.com/),  [Ask](http://www.ask.com/),  [中国搜索](http://www.chinaso.com/),  [360搜索](http://www.so.com/),  [DDG](https://duckduckgo.com/),  [Yandex](https://www.yandex.com/) , [Sogou搜索](https://www.sogou.com/), [Google Hosts](https://coding.net/u/scaffrey/p/hosts/git/blob/master/hosts-files/hosts), [谷歌镜像收集](https://liyuans.com/archives/google-mirror.html), [任度搜](http://www.rendoso.com/)    
